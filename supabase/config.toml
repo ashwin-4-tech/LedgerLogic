@@ -1,0 +1,5 @@
+project_id = "kzsnqjuvhyibibjyqyfo"
+
+[functions.ai-insights]
+verify_jwt = true
+entrypoint = "./functions/ai-insights/index.ts"
